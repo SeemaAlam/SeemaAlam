@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **A Full stack web development course in Masai School.**
 
-- 👨‍💻 All of my projects are available at [portfoliolink](portfoliolink)
+- 👨‍💻 All of my projects are available at [https://portfolio-seemaalam.vercel.app/](portfoliolink)
 
 - 💬 Ask me about **HTML,CSS,Javascript, Bootstrap, Node JS, Mongodb, Redux, DS and algo**
 
