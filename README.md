@@ -7,11 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [spareshub clone](https://github.com/SeemaAlam/spareshub_project)
+- 🔭 I’m currently working on [A full stack react and node Js complex project](https://github.com/SeemaAlam/Ecommerce_fullStack_NodeJS_React_Redux_materialUI)
 
 - 🌱 I’m currently learning **A Full stack web development course in Masai School.**
 
-- 👨‍💻 All of my projects are available at [portfoliolink](https://portfolio-seemaalam.vercel.app/)
+- 👨‍💻 Some of my full stack projects are available at [portfoliolink](https://portfolio-seemaalam.vercel.app/)
+
+-  👨‍ Please check my front end projects at [portfoliolink](https://github.com/SeemaAlam/FronEnd)
+
+- - 👨‍💻 Please check my back end projects at [portfoliolink](https://github.com/SeemaAlam/Backend)
 
 - 💬 Ask me about **HTML,CSS,Javascript, Bootstrap, Node JS, Mongodb, Redux, DS and algo**
 
