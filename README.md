@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Sim.alam20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s8DvE5lAhPO3jupVLTPOWGlc3q2cMWHk/view?usp=sharing](https://drive.google.com/file/d/1s8DvE5lAhPO3jupVLTPOWGlc3q2cMWHk/view?usp=sharing)
+- 📄 Know about my experiences [drive link of resume](https://drive.google.com/file/d/1BZpiF8CnAyLlXahWdpWCQ2xESzxs9Axq/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy listening music, I am foodie.**
 
