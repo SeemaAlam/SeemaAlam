@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my full stack projects are available at [portfoliolink](https://portfolio-seemaalam.vercel.app/)
 
--👨‍ Please check my front end projects at [link](https://github.com/SeemaAlam/FronEnd)
+ -👨‍ Please check my front end projects at [link](https://github.com/SeemaAlam/FronEnd)
 
 - 👨‍💻 Please check my back end projects at [link](https://github.com/SeemaAlam/Backend)
 
