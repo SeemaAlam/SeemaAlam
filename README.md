@@ -13,9 +13,9 @@
 
 - 👨‍💻 Some of my full stack projects are available at [portfoliolink](https://portfolio-seemaalam.vercel.app/)
 
-- 👨‍ Please check my front end projects at [link](https://github.com/SeemaAlam/FronEnd)
+- 👨‍ Please check my front end projects at [link](https://github.com/SeemaAlam/FronEnd_projects)
 
-- 👨‍💻 Please check my back end projects at [link](https://github.com/SeemaAlam/Backend)
+- 👨‍💻 Please check my back end projects at [link](https://github.com/SeemaAlam/BackEnd_Projects)
 
 - 💬 Ask me about **HTML,CSS,Javascript, Bootstrap, Node JS, Mongodb, Redux, DS and algo**
 
